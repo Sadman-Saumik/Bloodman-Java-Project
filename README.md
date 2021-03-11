@@ -2,6 +2,7 @@
 The system is built in Java platfrom(Netbeans)
 
 Objectives:
+
 •	To make the blood donation process faster.
 
 •	To remove the middle man between Donor and Patient.
